@@ -1,0 +1,3 @@
+Anna,13
+Dex,5
+Lina,4
